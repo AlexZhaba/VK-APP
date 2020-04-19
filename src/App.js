@@ -38,8 +38,8 @@ class App extends React.Component {
 		return (
 			<View activePanel={this.state.activePanel}>
 				<Home id="home" fetchedUser={this.state.fetchedUser} go={this.go} />
-				<Persik id="persik" go={this.go} />
-				<Registration id="reg"  go={this.go} fetchedUser={this.state.fetchedUser}/>
+				{/*<Persik id="persik" go={this.go} />*/}
+				{/*<Registration id="reg"  go={this.go} fetchedUser={this.state.fetchedUser}/>*/}
 			</View>
 		);
 	}
