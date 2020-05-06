@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "./static/media/persik.4e1ec840.png"
   },
   {
-    "revision": "d32ddc1bd32141d45804b1eada2a4aee",
+    "revision": "9c166f06f25f29ee40abeb80190ddf1a",
     "url": "./index.html"
   }
 ];
